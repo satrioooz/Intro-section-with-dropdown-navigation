@@ -113,6 +113,15 @@
     margin:0 20px;
 
 }
+ .section-navbar .careers{
+     color:var(--Medium-Gray);
+     text-decoration: none;
+ }
+
+ .section-navbar .about{
+    color:var(--Medium-Gray);
+    text-decoration: none;
+}
 
 .section-navbar .auth-login{
     position: absolute;
